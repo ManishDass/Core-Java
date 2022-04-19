@@ -1,0 +1,1 @@
+string1.setText(al.get(0) + " " + al.get(1) + " " + al.get(2));
